@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/opengl_learn.dir/main.cpp.o CMakeFiles/opengl_learn.dir/test.cpp.o CMakeFiles/opengl_learn.dir/glad.c.o CMakeFiles/opengl_learn.dir/pano.cpp.o CMakeFiles/opengl_learn.dir/01.cpp.o CMakeFiles/opengl_learn.dir/02_triangle.cpp.o -o opengl_learn  -lglfw3

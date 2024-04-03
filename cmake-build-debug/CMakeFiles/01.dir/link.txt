@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/01.dir/01.cpp.o CMakeFiles/01.dir/glad.c.o -o 01  -lglfw3

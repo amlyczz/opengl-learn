@@ -1,0 +1,7 @@
+/opt/CProject/opengl-learn/cmake-build-debug/CMakeFiles/main.dir
+/opt/CProject/opengl-learn/cmake-build-debug/CMakeFiles/test.dir
+/opt/CProject/opengl-learn/cmake-build-debug/CMakeFiles/pano.dir
+/opt/CProject/opengl-learn/cmake-build-debug/CMakeFiles/01.dir
+/opt/CProject/opengl-learn/cmake-build-debug/CMakeFiles/02.dir
+/opt/CProject/opengl-learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/opt/CProject/opengl-learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
