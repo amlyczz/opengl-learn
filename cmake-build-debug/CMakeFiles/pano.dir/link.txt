@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/pano.dir/pano.cpp.o CMakeFiles/pano.dir/glad.c.o -o pano  -lglfw3
